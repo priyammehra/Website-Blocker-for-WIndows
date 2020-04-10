@@ -1,0 +1,6 @@
+The Blocker will only work if you execute this python file with 
+Administartor privelleges i.e., right click and then select "Run as Administator".
+
+Username is user
+Password is pass
+**all in lower case**
